@@ -16,7 +16,8 @@
       "category": "Wallpaper",
       "tags": [
         "Wallpaper",
-        "Custom"
+        "Dynamic",
+        "Lockscreen"
       ],
       "icon": "assets/focus_music.jpg",
       "screenshots": [
@@ -36,6 +37,41 @@
         }
       ],
       "featured": true,
+      "isPrivate": false
+    },
+    {
+      "identifier": "com.trithanh.telephonyui.amongus",
+      "kind": "theme",
+      "name": "TelephoneUI Among Us",
+      "author": "Tri Thanh",
+      "version": "1.0.0",
+      "summary": "Giao diện bàn phím quay số Among Us",
+      "description": "Tùy biến giao diện bàn phím cuộc gọi phong cách Among Us đáng yêu.",
+      "category": "Theme",
+      "tags": [
+        "Telephone",
+        "AmongUs",
+        "Theme",
+        "Custom"
+      ],
+      "icon": "assets/telephone_icon.png",
+      "screenshots": [
+        "assets/telephone_icon.png"
+      ],
+      "download": "packages/TelephonyUI-amongus.zip",
+      "sha256": "62d51928913bff9bdd822903727e5d2488ad5f81bf3552569ea1953966d004bd",
+      "size": 1528306,
+      "supportedOS": [
+        {
+          "minimum": "15.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        }
+      ],
+      "featured": false,
       "isPrivate": false
     }
   ]
