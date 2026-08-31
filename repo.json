@@ -1,7 +1,7 @@
 {
   "name": "boemdau",
   "identifier": "com.boemdau.myrepo",
-  "subtitle": "Kho ca nhan cua boemdau",
+  "subtitle": "Kho Passcode ca nhan cua boemdau",
   "tintColor": "#007AFF",
   "apps": [
     {
@@ -10,9 +10,9 @@
       "developerName": "boemdau",
       "version": "1.0",
       "versionDate": "2026-08-31T00:00:00Z",
-      "versionDescription": "Bản phát hành đầu tiên",
+      "versionDescription": "Giao diện bàn phím số Passcode bé Đậu",
       "downloadURL": "https://github.com/trithanh752-dotcom/boemdau1/releases/download/pascodev1.0/Telephone_.zip",
-      "localizedDescription": "Màn hình khóa tự làm",
+      "localizedDescription": "Thay đổi icon bàn phím màn hình khóa Passcode sang hình bé Đậu dễ thương.",
       "iconURL": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau1/main/1788136270804_1859015562587900094_2706723165019760866_16e2144971888403df7fcc1467792157.jpg",
       "tintColor": "#007AFF",
       "size": 15000000
