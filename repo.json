@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "identifier": "com.trithanh.boemdau",
-  "name": "Bố Em Đậu Repo",
+  "name": "Bố Em Đậu ",
   "description": "Kho tiện ích và giao diện tùy biến cá nhân của Bố Em Đậu",
   "icon": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/repo_icon.png",
   "packages": [
@@ -38,6 +38,36 @@
         }
       ],
       "featured": true,
+      "isPrivate": false
+    },
+    {
+      "identifier": "TelephonyUI-Dau-3105",
+      "kind": "tweak",
+      "name": "TelephonyUI Đậu 3105",
+      "author": "Tri Thanh",
+      "version": "1.0.0",
+      "summary": "Giao diện cuộc gọi TelephonyUI tùy biến Bố Em Đậu",
+      "description": "Tùy biến giao diện cuộc gọi TelephonyUI phong cách cá nhân.",
+      "category": "Theme",
+      "tags": [
+        "TelephonyUI",
+        "Theme",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/dau.jpg",
+      "screenshots": [
+        "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/dau.jpg"
+      ],
+      "download": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/packages/TelephonyUI-Dau.3105",
+      "sha256": "84dcd1d07ebbbbc62c9c86606946508d6cba7074f770645a42cee0e0b39b1959",
+      "size": 346301,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        }
+      ],
+      "featured": false,
       "isPrivate": false
     }
   ]
