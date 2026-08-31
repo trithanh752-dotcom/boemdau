@@ -1,22 +1,37 @@
 {
-  "name": "boemdau",
+  "schemaVersion": 1,
   "identifier": "com.boemdau.myrepo",
-  "subtitle": "Kho Passcode ca nhan cua boemdau",
-  "tintColor": "#007AFF",
-  "apps": [
+  "name": "boemdau",
+  "description": "Kho Passcode và Giao diện cá nhân của boemdau",
+  "icon": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau1/main/1788136270804_1859015562587900094_2706723165019760866_16e2144971888403df7fcc1467792157.jpg",
+  "packages": [
     {
+      "identifier": "Passcode-cua-dau",
+      "kind": "custom",
       "name": "Passcode cua dau",
-      "bundleIdentifier": "com.boemdau.passcode",
-      "developerName": "boemdau",
-      "version": "1.0",
-      "versionDate": "2026-08-31T00:00:00Z",
-      "versionDescription": "Giao diện bàn phím số Passcode bé Đậu",
-      "downloadURL": "https://github.com/trithanh752-dotcom/boemdau1/releases/download/pascodev1.0/Telephone_.zip",
-      "localizedDescription": "Thay đổi icon bàn phím màn hình khóa Passcode sang hình bé Đậu dễ thương.",
-      "iconURL": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau1/main/1788136270804_1859015562587900094_2706723165019760866_16e2144971888403df7fcc1467792157.jpg",
-      "tintColor": "#007AFF",
-      "size": 15000000
+      "author": "boemdau",
+      "version": "1.0.0",
+      "summary": "Màn hình khóa bé Đậu tự làm",
+      "description": "Thay đổi icon bàn phím màn hình khóa Passcode sang hình bé Đậu dễ thương.",
+      "category": "Passcode",
+      "tags": [
+        "Passcode",
+        "Custom"
+      ],
+      "icon": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau1/main/1788136270804_1859015562587900094_2706723165019760866_16e2144971888403df7fcc1467792157.jpg",
+      "screenshots": [
+        "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau1/main/1788136270804_1859015562587900094_2706723165019760866_16e2144971888403df7fcc1467792157.jpg"
+      ],
+      "download": "https://github.com/trithanh752-dotcom/boemdau1/releases/download/pascodev1.0/Telephone_.zip",
+      "size": 15000000,
+      "supportedOS": [
+        {
+          "minimum": "15.0",
+          "maximum": "18.7.1"
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
     }
-  ],
-  "news": []
+  ]
 }
