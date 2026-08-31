@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "identifier": "com.trithanh.boemdau",
-  "name": "Bố Em Đậu",
+  "name": "Bố Em Đậu Repo",
   "description": "Kho tiện ích và giao diện tùy biến cá nhân của Bố Em Đậu",
-  "icon": "assets/repo_icon.png",
+  "icon": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/repo_icon.png",
   "packages": [
     {
       "identifier": "Focus-Music-Wallpaper",
@@ -15,36 +15,30 @@
       "description": "Hình nền động màn hình khóa phong cách Music Player 3D với hiệu ứng chuyển động và Gyro.",
       "category": "Wallpaper",
       "tags": [
-        "Wallpaper"
-      ],
-      "icon": "assets/focus_music.jpg",
-      "screenshots": [
-        "assets/focus_music.jpg"
-      ],
-      "download": "packages/for_iphone.tendies",
-      "sha256": "9475069afebb7a5a56e4dbe61f8b57bf19bf2c3edd464a0e5e2b5bc6f90f6728",
-      "size": 6785409
-    },
-    {
-      "identifier": "com.trithanh.telephonyui.dau",
-      "kind": "theme",
-      "name": "TelephonyUI Dau",
-      "author": "Tri Thanh",
-      "version": "1.0.0",
-      "summary": "Giao diện bàn phím cuộc gọi & Passcode Bé Đậu",
-      "description": "Tùy biến giao diện bàn phím cuộc gọi và số khóa màn hình phong cách Đậu đáng yêu.",
-      "category": "Theme",
-      "tags": [
+        "Wallpaper",
+        "Custom",
         "Theme",
         "HOANGDUONG"
       ],
-      "icon": "assets/dau.jpg",
+      "icon": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/focus_music.jpg",
       "screenshots": [
-        "assets/dau.jpg"
+        "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/focus_music.jpg"
       ],
-      "download": "packages/TelephonyUI-Dau.3105",
-      "sha256": "84dcd1d07ebbbbc62c9c86606946508d6cba7074f770645a42cee0e0b39b1959",
-      "size": 1657570
+      "download": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/packages/for_iphone.tendies",
+      "sha256": "9475069afebb7a5a56e4dbe61f8b57bf19bf2c3edd464a0e5e2b5bc6f90f6728",
+      "size": 6785409,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        }
+      ],
+      "featured": true,
+      "isPrivate": false
     }
   ]
 }
