@@ -18,11 +18,11 @@
         "Wallpaper",
         "Custom"
       ],
-      "icon": "assets/focus_music.jpg",
+      "icon": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/focus_music.jpg",
       "screenshots": [
-        "assets/focus_music.jpg"
+        "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/focus_music.jpg"
       ],
-      "download": "packages/for_iphone.tendies",
+      "download": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/packages/for_iphone.tendies",
       "sha256": "9475069afebb7a5a56e4dbe61f8b57bf19bf2c3edd464a0e5e2b5bc6f90f6728",
       "size": 6785409,
       "supportedOS": [
