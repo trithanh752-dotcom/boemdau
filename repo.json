@@ -6,41 +6,6 @@
   "icon": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/icon.png",
   "packages": [
     {
-      "identifier": "com.trithanh.passcodecuadau",
-      "kind": "wallpaper",
-      "name": "Passcode Của Đậu",
-      "author": "Tri Thanh",
-      "version": "1.0.0",
-      "summary": "Bộ giao diện khóa số màn hình tùy biến cá nhân hóa.",
-      "description": "Tùy biến giao diện màn hình khóa (Passcode) độc đáo, mượt mà và tối ưu hóa hệ thống.",
-      "category": "Theme",
-      "tags": [
-        "Lockscreen",
-        "Passcode",
-        "Theme",
-        "Custom"
-      ],
-      "icon": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/icon.png",
-      "screenshots": [
-        "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/preview.png"
-      ],
-      "download": "packages/Passcode_cua_dau.tendies",
-      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "size": 1048576,
-      "supportedOS": [
-        {
-          "minimum": "17.0",
-          "maximum": "18.7.1"
-        },
-        {
-          "minimum": "26.0",
-          "maximum": "26.6.1"
-        }
-      ],
-      "featured": true,
-      "isPrivate": false
-    },
-    {
       "identifier": "Focus-Music-Wallpaper",
       "kind": "wallpaper",
       "name": "Focus Music Player",
@@ -70,7 +35,7 @@
           "maximum": "26.6.1"
         }
       ],
-      "featured": false,
+      "featured": true,
       "isPrivate": false
     }
   ]
