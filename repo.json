@@ -1,0 +1,19 @@
+{
+  "name": "boemdau",
+  "identifier": "com.boemdau.myrepo",
+  "apps": [
+    {
+      "name": "Passcode cua dau",
+      "bundleIdentifier": "com.developer.appname",
+      "developerName": "boemdau",
+      "version": "1.0",
+      "versionDate": "2026-08-31T00:00:00Z",
+      "versionDescription": "Bản phát hành đầu tiên",
+      "downloadURL": "https://upfile.live/vi/files/b8c5c2e7",
+      "localizedDescription": "Màn hình khóa tự làm",
+      "iconURL": "https://cdn.upanhlaylink.com/i/2nCuckiz.png",
+      "tintColor": "#007AFF",
+      "size": 15000000
+    }
+  ]
+}
