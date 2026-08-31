@@ -1,32 +1,59 @@
 {
   "schemaVersion": 1,
-  "identifier": "com.trithanh.boemdau",
-  "name": "Bố Em Đậu Repo",
-  "description": "Kho tiện ích và giao diện tùy biến cá nhân của Bố Em Đậu",
-  "icon": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/icon.png",
+  "identifier": "com.boemdau.myrepo",
+  "name": "boemdau",
+  "description": "Mã Nguồn Repo Của boemdau",
+  "icon": "assets/icon.jpg",
   "packages": [
     {
-      "identifier": "com.trithanh.passcodecuadau",
-      "kind": "wallpaper",
-      "name": "Passcode Của Đậu",
-      "author": "Tri Thanh",
+      "identifier": "Passcode-cua-dau",
+      "kind": "custom",
+      "name": "Passcode cua dau",
+      "author": "boemdau",
       "version": "1.0.0",
-      "summary": "Bộ giao diện khóa số màn hình tùy biến cá nhân hóa.",
-      "description": "Tùy biến giao diện màn hình khóa (Passcode) độc đáo, mượt mà và tối ưu hóa hệ thống.",
-      "category": "Theme",
+      "summary": "Màn hình khóa bé Đậu tự làm",
+      "description": "Thay đổi icon bàn phím màn hình khóa Passcode sang hình bé Đậu dễ thương.",
+      "category": "Passcode",
       "tags": [
-        "Lockscreen",
         "Passcode",
-        "Theme",
         "Custom"
       ],
-      "icon": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/icon.png",
+      "icon": "assets/icon.jpg",
       "screenshots": [
-        "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/preview.png"
+        "assets/icon.jpg"
       ],
-      "download": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/packages/Passcode_cua_dau.tendies",
+      "download": "packages/Telephone_.zip",
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "size": 1048576,
+      "size": 15000000,
+      "supportedOS": [
+        {
+          "minimum": "15.0",
+          "maximum": "18.7.1"
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Focus-Music-Wallpaper",
+      "kind": "wallpaper",
+      "name": "Focus Music Player",
+      "author": "boemdau",
+      "version": "1.0.0",
+      "summary": "Hình nền động trình phát nhạc Focus 3D",
+      "description": "Hình nền động màn hình khóa phong cách Music Player 3D với hiệu ứng chuyển động và Gyro.",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "assets/focus_music.jpg",
+      "screenshots": [
+        "assets/focus_music.jpg"
+      ],
+      "download": "packages/for_iphone.tendies",
+      "sha256": "6e4776eb6c4293f77df23023f03b0c9535eb0da945a05e26ec0ea0ea410ff5e6",
+      "size": 1727788,
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -37,7 +64,7 @@
           "maximum": "26.6.1"
         }
       ],
-      "featured": true,
+      "featured": false,
       "isPrivate": false
     }
   ]
