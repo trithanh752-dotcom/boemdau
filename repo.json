@@ -15,7 +15,10 @@
       "description": "Hình nền động màn hình khóa phong cách Music Player 3D với hiệu ứng chuyển động và Gyro.",
       "category": "Wallpaper",
       "tags": [
-        "Wallpaper"
+        "Custom",
+        "Wallpaper",
+        "Theme",
+        "Dau"
       ],
       "icon": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/focus_music.jpg",
       "screenshots": [
@@ -35,39 +38,6 @@
         }
       ],
       "featured": true,
-      "isPrivate": false
-    },
-    {
-      "identifier": "com.trithanh.dau.theme",
-      "kind": "theme",
-      "name": "Giao Diện Của Đậu",
-      "author": "Tri Thanh",
-      "version": "1.0.0",
-      "summary": "Bộ giao diện tùy biến Đậu",
-      "description": "Giao diện cá nhân hóa dành riêng cho Đậu.",
-      "category": "Dau",
-      "tags": [
-        "Theme",
-        "Dau"
-      ],
-      "icon": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/repo_icon.png",
-      "screenshots": [
-        "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/repo_icon.png"
-      ],
-      "download": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/packages/for_iphone.tendies",
-      "sha256": "9475069afebb7a5a56e4dbe61f8b57bf19bf2c3edd464a0e5e2b5bc6f90f6728",
-      "size": 6785409,
-      "supportedOS": [
-        {
-          "minimum": "17.0",
-          "maximum": "18.7.1"
-        },
-        {
-          "minimum": "26.0",
-          "maximum": "26.6.1"
-        }
-      ],
-      "featured": false,
       "isPrivate": false
     }
   ]
