@@ -1,6 +1,8 @@
 {
   "name": "boemdau",
   "identifier": "com.boemdau.myrepo",
+  "subtitle": "Kho ca nhan cua boemdau",
+  "tintColor": "#007AFF",
   "apps": [
     {
       "name": "Passcode cua dau",
@@ -15,5 +17,6 @@
       "tintColor": "#007AFF",
       "size": 15000000
     }
-  ]
+  ],
+  "news": []
 }
