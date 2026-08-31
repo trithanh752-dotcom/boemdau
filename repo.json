@@ -4,12 +4,12 @@
   "apps": [
     {
       "name": "Passcode cua dau",
-      "bundleIdentifier": "com.developer.appname",
+      "bundleIdentifier": "com.boemdau.passcode",
       "developerName": "boemdau",
       "version": "1.0",
       "versionDate": "2026-08-31T00:00:00Z",
       "versionDescription": "Bản phát hành đầu tiên",
-      "downloadURL": "https://upfile.live/vi/files/b8c5c2e7",
+      "downloadURL": "THAY_LINK_DIRECT_IPA_VAO_DAY",
       "localizedDescription": "Màn hình khóa tự làm",
       "iconURL": "https://cdn.upanhlaylink.com/i/2nCuckiz.png",
       "tintColor": "#007AFF",
