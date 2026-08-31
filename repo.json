@@ -3,40 +3,18 @@
   "identifier": "com.trithanh.boemdau",
   "name": "Bố Em Đậu Repo",
   "description": "Kho tiện ích và giao diện tùy biến cá nhân của Bố Em Đậu",
-  "icon": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/repo_icon.png",
+  "icon": "assets/repo_icon.png",
   "packages": [
     {
       "identifier": "Focus-Music-Wallpaper",
-      "kind": "wallpaper",
       "name": "Focus Music Player",
       "author": "Tri Thanh",
       "version": "1.0.0",
-      "summary": "Hình nền động trình phát nhạc Focus 3D",
-      "description": "Hình nền động màn hình khóa phong cách Music Player 3D với hiệu ứng chuyển động và Gyro.",
       "category": "Wallpaper",
-      "tags": [
-        "Wallpaper",
-        "Theme"
-      ],
-      "icon": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/focus_music.jpg",
-      "screenshots": [
-        "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/focus_music.jpg"
-      ],
-      "download": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/packages/for_iphone.tendies",
+      "icon": "assets/focus_music.jpg",
+      "download": "packages/for_iphone.tendies",
       "sha256": "9475069afebb7a5a56e4dbe61f8b57bf19bf2c3edd464a0e5e2b5bc6f90f6728",
-      "size": 6785409,
-      "supportedOS": [
-        {
-          "minimum": "17.0",
-          "maximum": "18.7.1"
-        },
-        {
-          "minimum": "26.0",
-          "maximum": "26.6.1"
-        }
-      ],
-      "featured": true,
-      "isPrivate": false
+      "size": 6785409
     }
   ]
 }
