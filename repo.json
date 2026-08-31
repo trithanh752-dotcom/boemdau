@@ -3,7 +3,7 @@
   "identifier": "com.boemdau.myrepo",
   "name": "boemdau",
   "description": "Mã Nguồn Repo Của boemdau",
-  "icon": "assets/icon.jpg",
+  "icon": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/1788136270804_1859015562587900094_2706723165019760866_16e2144971888403df7fcc1467792157.jpg",
   "packages": [
     {
       "identifier": "Passcode-cua-dau",
@@ -18,11 +18,11 @@
         "Passcode",
         "Custom"
       ],
-      "icon": "assets/icon.jpg",
+      "icon": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/1788136270804_1859015562587900094_2706723165019760866_16e2144971888403df7fcc1467792157.jpg",
       "screenshots": [
-        "assets/icon.jpg"
+        "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/1788136270804_1859015562587900094_2706723165019760866_16e2144971888403df7fcc1467792157.jpg"
       ],
-      "download": "packages/Telephone_.zip",
+      "download": "https://github.com/trithanh752-dotcom/boemdau1/releases/download/pascodev1.0/Telephone_.zip",
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "size": 15000000,
       "supportedOS": [
