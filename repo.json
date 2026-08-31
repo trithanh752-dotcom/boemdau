@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "identifier": "com.trithanh.boemdau",
-  "name": "Bố Em Đậu Repo",
+  "name": "Bố Em Đậu ",
   "description": "Kho tiện ích và giao diện tùy biến cá nhân của Bố Em Đậu",
   "icon": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/repo_icon.png",
   "packages": [
@@ -16,7 +16,9 @@
       "category": "Wallpaper",
       "tags": [
         "Wallpaper",
-        "Custom"
+        "Custom",
+        "Theme",
+        "HOANGDUONG"
       ],
       "icon": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/focus_music.jpg",
       "screenshots": [
