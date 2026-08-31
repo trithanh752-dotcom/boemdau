@@ -1,32 +1,32 @@
 {
   "schemaVersion": 1,
-  "identifier": "com.trithanh.myrepo",
-  "name": "Tri Thanh Repo",
-  "description": "Kho chia sẻ tiện ích và giao diện tùy biến cá nhân",
-  "icon": "assets/icon.png",
+  "identifier": "com.trithanh.boemdau",
+  "name": "Bố Em Đậu Repo",
+  "description": "Kho tiện ích và giao diện tùy biến cá nhân của Bố Em Đậu",
+  "icon": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/icon.png",
   "packages": [
     {
-      "identifier": "com.trithanh.customlockscreen",
+      "identifier": "com.trithanh.passcodecuadau",
       "kind": "wallpaper",
-      "name": "Custom Lockscreen Pack",
-      "author": "Lanh Tri Thanh",
+      "name": "Passcode Của Đậu",
+      "author": "Tri Thanh",
       "version": "1.0.0",
-      "summary": "Bộ giao diện màn hình khóa tùy biến theo phong cách tối giản.",
-      "description": "Bản mod giao diện màn hình khóa cá nhân hóa, tối ưu độ mượt và thời lượng pin.",
+      "summary": "Bộ giao diện khóa số màn hình tùy biến cá nhân hóa.",
+      "description": "Tùy biến giao diện màn hình khóa (Passcode) độc đáo, mượt mà và tối ưu hóa hệ thống.",
       "category": "Theme",
       "tags": [
         "Lockscreen",
+        "Passcode",
         "Theme",
         "Custom"
       ],
-      "icon": "assets/icons/lockscreen.png",
+      "icon": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/icon.png",
       "screenshots": [
-        "assets/screenshots/preview1.png",
-        "assets/screenshots/preview2.png"
+        "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/preview.png"
       ],
-      "download": "packages/lockscreen_v1.0.tendies",
-      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
-      "size": 5242880,
+      "download": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/packages/Passcode_cua_dau.tendies",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 1048576,
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -38,36 +38,6 @@
         }
       ],
       "featured": true,
-      "isPrivate": false
-    },
-    {
-      "identifier": "com.trithanh.darknaturewallpaper",
-      "kind": "wallpaper",
-      "name": "Dark Nature 4K",
-      "author": "Tri Thanh Studio",
-      "version": "1.0.1",
-      "summary": "Bộ hình nền phong cảnh thiên nhiên tông tối sắc nét cao.",
-      "description": "Hình nền độ phân giải cao dành cho màn hình OLED, hỗ trợ hiệu ứng chiều sâu (Depth Effect).",
-      "category": "Wallpaper",
-      "tags": [
-        "Wallpaper",
-        "OLED",
-        "Nature"
-      ],
-      "icon": "assets/icons/nature.png",
-      "screenshots": [
-        "assets/screenshots/nature_preview.png"
-      ],
-      "download": "packages/nature_wallpapers.tendies",
-      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "size": 18450000,
-      "supportedOS": [
-        {
-          "minimum": "17.0",
-          "maximum": "26.0"
-        }
-      ],
-      "featured": false,
       "isPrivate": false
     }
   ]
