@@ -1,125 +1,250 @@
 {
-  "schemaVersion": 1,
-  "identifier": "com.trithanh.boemdau",
-  "name": "Bố Em Đậu",
-  "description": "Kho tiện ích và giao diện tùy biến cá nhân của Bố Em Đậu",
-  "icon": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/repo_icon.png",
-  "packages": [
-    {
-      "identifier": "Focus-Music-Wallpaper",
-      "kind": "wallpaper",
-      "name": "Focus Music Player",
-      "author": "Tri Thanh",
-      "version": "1.0.0",
-      "summary": "Hình nền động trình phát nhạc Focus 3D",
-      "description": "Hình nền động màn hình khóa phong cách Music Player 3D với hiệu ứng chuyển động và Gyro.",
-      "category": "Wallpaper",
-      "tags": ["Wallpaper", "Custom", "Theme"],
-      "icon": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/focus_music.jpg",
-      "screenshots": [
-        "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/focus_music.jpg"
-      ],
-      "download": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/packages/for_iphone.tendies",
-      "sha256": "9475069afebb7a5a56e4dbe61f8b57bf19bf2c3edd464a0e5e2b5bc6f90f6728",
-      "size": 6785409,
-      "supportedOS": [
-        { "minimum": "17.0", "maximum": "18.7.1" }
-      ],
-      "featured": true,
-      "isPrivate": false
-    },
-    {
-      "identifier": "Dauvienden",
-      "kind": "wallpaper",
-      "name": "DauDau",
-      "author": "Tri Thanh",
-      "version": "1.0.0",
-      "summary": "Hình nền riêng cho Đậu",
-      "description": "Tự làm riêng cho con trai.",
-      "category": "HOANGDUONG",
-      "tags": ["HOANGDUONG"],
-      "icon": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/123_dau.png",
-      "screenshots": [
-        "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/123_dau.png"
-      ],
-      "download": "https://github.com/trithanh752-dotcom/boemdau/releases/download/HOANGDUONG/dauviernden2muttay.tendies",
-      "sha256": "d24e372ec5f34790eab8384be0aed0b516435835f3432c343aff2e86d2768f6d",
-      "size": 56287868,
-      "supportedOS": [
-        { "minimum": "17.0", "maximum": "18.7.1" }
-      ],
-      "featured": false,
-      "isPrivate": false
-    },
-    {
-      "identifier": "Dau3105",
-      "kind": "wallpaper",
-      "name": "Dau 3105",
-      "author": "Tri Thanh",
-      "version": "1.0.0",
-      "summary": "Bàn phím của ĐẬu",
-      "description": "..",
-      "category": "HOANGDUONG",
-      "tags": ["HOANGDUONG"],
-      "icon": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/IMG_1250.png",
-      "screenshots": [
-        "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/IMG_1250.png"
-      ],
-      "download": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/packages/Tele_dau.tendies",
-      "sha256": "85c5d9961b149d782afca022e554412573a9c8aa01b714c9299a8f1740a1db00",
-      "size": 1657674,
-      "supportedOS": [
-        { "minimum": "17.0", "maximum": "18.7.1" }
-      ],
-      "featured": false,
-      "isPrivate": false
-    },
-    {
-      "identifier": "Dau-va-Dad",
-      "kind": "wallpaper",
-      "name": "Hinh nen cua Dau va Dad",
-      "author": "Tri Thanh",
-      "version": "1.0.0",
-      "summary": "Tự làm bản 2",
-      "description": "Không có gì đặc sắc",
-      "category": "HOANGDUONG",
-      "tags": ["HOANGDUONG"],
-      "icon": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/dauvadad.png",
-      "screenshots": [
-        "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/dauvadad.png"
-      ],
-      "download": "https://github.com/trithanh752-dotcom/boemdau/releases/download/DAUVADAD/daddau.tendies",
-      "sha256": "d160a1335bec907b154460b03a667d1e4378ccbcd05266e94483ddb4da761116",
-      "size": 62443794,
-      "supportedOS": [
-        { "minimum": "17.0", "maximum": "18.7.1" }
-      ],
-      "featured": false,
-      "isPrivate": false
-    },
-    {
-      "identifier": "Banphimgoi-Amongus",
-      "kind": "wallpaper",
-      "name": "Amongus",
-      "author": "Tri Thanh",
-      "version": "1.0.0",
-      "summary": "Bàn phím Among",
-      "description": "Phong cách bàn phím among",
-      "category": "Theme",
-      "tags": ["Theme", "Custom"],
-      "icon": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/among.png",
-      "screenshots": [
-        "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/amongblack.png",
-        "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/amongwhite.png"
-      ],
-      "download": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/packages/Amongus.3105pass",
-      "sha256": "07335fc68c1fbcf326936a6b2797a4834ee540815f627c207b4da4362971c189",
-      "size": 395246,
-      "supportedOS": [
-        { "minimum": "17.0", "maximum": "18.7.1" }
-      ],
-      "featured": false,
-      "isPrivate": false
-    }
-  ]
-}
+
+  "schemaVersion": 1,
+
+  "identifier": "com.trithanh.boemdau",
+
+  "name": "Bố Em Đậu",
+
+  "description": "Kho tiện ích và giao diện tùy biến cá nhân của Bố Em Đậu",
+
+  "icon": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/repo_icon.png",
+
+  "packages": [
+
+    {
+
+      "identifier": "Focus-Music-Wallpaper",
+
+      "kind": "wallpaper",
+
+      "name": "Focus Music Player",
+
+      "author": "Tri Thanh",
+
+      "version": "1.0.0",
+
+      "summary": "Hình nền động trình phát nhạc Focus 3D",
+
+      "description": "Hình nền động màn hình khóa phong cách Music Player 3D với hiệu ứng chuyển động và Gyro.",
+
+      "category": "Wallpaper",
+
+      "tags": ["Wallpaper", "Custom", "Theme"],
+
+      "icon": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/focus_music.jpg",
+
+      "screenshots": [
+
+        "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/focus_music.jpg"
+
+      ],
+
+      "download": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/packages/for_iphone.tendies",
+
+      "sha256": "9475069afebb7a5a56e4dbe61f8b57bf19bf2c3edd464a0e5e2b5bc6f90f6728",
+
+      "size": 6785409,
+
+      "supportedOS": [
+
+        { "minimum": "17.0", "maximum": "18.7.1" }
+
+      ],
+
+      "featured": true,
+
+      "isPrivate": false
+
+    },
+
+    {
+
+      "identifier": "Dauvienden",
+
+      "kind": "wallpaper",
+
+      "name": "DauDau",
+
+      "author": "Tri Thanh",
+
+      "version": "1.0.0",
+
+      "summary": "Hình nền riêng cho Đậu",
+
+      "description": "Tự làm riêng cho con trai.",
+
+      "category": "HOANGDUONG",
+
+      "tags": ["HOANGDUONG"],
+
+      "icon": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/123_dau.png",
+
+      "screenshots": [
+
+        "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/123_dau.png"
+
+      ],
+
+      "download": "https://github.com/trithanh752-dotcom/boemdau/releases/download/HOANGDUONG/dauviernden2muttay.tendies",
+
+      "sha256": "d24e372ec5f34790eab8384be0aed0b516435835f3432c343aff2e86d2768f6d",
+
+      "size": 56287868,
+
+      "supportedOS": [
+
+        { "minimum": "17.0", "maximum": "18.7.1" }
+
+      ],
+
+      "featured": false,
+
+      "isPrivate": false
+
+    },
+
+    {
+
+      "identifier": "Dau3105",
+
+      "kind": "wallpaper",
+
+      "name": "Dau 3105",
+
+      "author": "Tri Thanh",
+
+      "version": "1.0.0",
+
+      "summary": "Bàn phím của ĐẬu",
+
+      "description": "..",
+
+      "category": "HOANGDUONG",
+
+      "tags": ["HOANGDUONG"],
+
+      "icon": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/IMG_1250.png",
+
+      "screenshots": [
+
+        "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/IMG_1250.png"
+
+      ],
+
+      "download": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/packages/Tele_dau.tendies",
+
+      "sha256": "85c5d9961b149d782afca022e554412573a9c8aa01b714c9299a8f1740a1db00",
+
+      "size": 1657674,
+
+      "supportedOS": [
+
+        { "minimum": "17.0", "maximum": "18.7.1" }
+
+      ],
+
+      "featured": false,
+
+      "isPrivate": false
+
+    },
+
+    {
+
+      "identifier": "Dau-va-Dad",
+
+      "kind": "wallpaper",
+
+      "name": "Hinh nen cua Dau va Dad",
+
+      "author": "Tri Thanh",
+
+      "version": "1.0.0",
+
+      "summary": "Tự làm bản 2",
+
+      "description": "Không có gì đặc sắc",
+
+      "category": "HOANGDUONG",
+
+      "tags": ["HOANGDUONG"],
+
+      "icon": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/dauvadad.png",
+
+      "screenshots": [
+
+        "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/dauvadad.png"
+
+      ],
+
+      "download": "https://github.com/trithanh752-dotcom/boemdau/releases/download/DAUVADAD/daddau.tendies",
+
+      "sha256": "d160a1335bec907b154460b03a667d1e4378ccbcd05266e94483ddb4da761116",
+
+      "size": 62443794,
+
+      "supportedOS": [
+
+        { "minimum": "17.0", "maximum": "18.7.1" }
+
+      ],
+
+      "featured": false,
+
+      "isPrivate": false
+
+    },
+
+    {
+
+      "identifier": "Banphimgoi-Amongus",
+
+      "kind": "wallpaper",
+
+      "name": "Amongus",
+
+      "author": "Tri Thanh",
+
+      "version": "1.0.0",
+
+      "summary": "Bàn phím Among",
+
+      "description": "Phong cách bàn phím among",
+
+      "category": "Theme",
+
+      "tags": ["Theme", "Custom"],
+
+      "icon": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/among.png",
+
+      "screenshots": [
+
+        "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/amongblack.png",
+
+        "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/amongwhite.png"
+
+      ],
+
+      "download": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/packages/Amongus.3105pass",
+
+      "sha256": "07335fc68c1fbcf326936a6b2797a4834ee540815f627c207b4da4362971c189",
+
+      "size": 395246,
+
+      "supportedOS": [
+
+        { "minimum": "17.0", "maximum": "18.7.1" }
+
+      ],
+
+      "featured": false,
+
+      "isPrivate": false
+
+    }
+
+  ]
+
+}  
+
