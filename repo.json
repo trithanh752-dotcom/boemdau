@@ -73,6 +73,29 @@
       ],
       "featured": false,
       "isPrivate": false
+    },
+    {
+      "identifier": "Dau-va-Dad",
+      "kind": "wallpaper",
+      "name": "Hinh nen cua Dau va Dad",
+      "author": "Tri Thanh",
+      "version": "1.0.0",
+      "summary": "Tự làm bản 2",
+      "description": "Không có gì đặc sắc",
+      "category": "HOANGDUONG",
+      "tags": ["HOANGDUONG"],
+      "icon": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/dauvadad.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/dauvadad.png"
+      ],
+      "download": "https://github.com/trithanh752-dotcom/boemdau/releases/download/DAUVADAD/daddau.tendies",
+      "sha256": "d160a1335bec907b154460b03a667d1e4378ccbcd05266e94483ddb4da761116",
+      "size": 62443794,
+      "supportedOS": [
+        { "minimum": "17.0", "maximum": "18.7.1" }
+      ],
+      "featured": false,
+      "isPrivate": false
     }
   ]
 }
