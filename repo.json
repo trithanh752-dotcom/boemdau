@@ -96,6 +96,30 @@
       ],
       "featured": false,
       "isPrivate": false
+    },
+    {
+      "identifier": "Banphimgoi-Amongus",
+      "kind": "wallpaper",
+      "name": "Amongus",
+      "author": "Tri Thanh",
+      "version": "1.0.0",
+      "summary": "Bàn phím Among",
+      "description": "Phong cách bàn phím among",
+      "category": "Theme",
+      "tags": ["Theme", "Custom"],
+      "icon": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/among.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/amongblack.png",
+        "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/amongwhite.png"
+      ],
+      "download": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/packages/Amongus.tendies",
+      "sha256": "07335fc68c1fbcf326936a6b2797a4834ee540815f627c207b4da4362971c189",
+      "size": 395246,
+      "supportedOS": [
+        { "minimum": "17.0", "maximum": "18.7.1" }
+      ],
+      "featured": false,
+      "isPrivate": false
     }
   ]
 }
