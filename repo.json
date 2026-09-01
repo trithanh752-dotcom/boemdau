@@ -121,7 +121,7 @@
     },
     {
       "identifier": "Dialer-Amongus",
-      "kind": "wallpaper",
+      "kind": "theme",
       "name": "Among",
       "author": "Tri Thanh",
       "version": "1.0.0",
@@ -136,7 +136,7 @@
         "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/amongwhite.png",
         "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/amongblack.png"
       ],
-      "download": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/packages/Among-Us.3105",
+      "download": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/packages/Among-Us.ipa",
       "sha256": "991615a8aa97d8e49f7d82472f58b6cc580b20faa7958f9a89322c5184b8d411",
       "size": 425150,
       "supportedOS": [
