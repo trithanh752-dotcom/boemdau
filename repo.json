@@ -129,7 +129,8 @@
       "description": "Bàn phím quay số gọi điện phong cách AmongUS cute.",
       "category": "Dialer",
       "tags": [
-        "Dialer"
+        "Dialer",
+        "Custom"
       ],
       "icon": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/among.png",
       "screenshots": [
