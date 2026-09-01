@@ -50,6 +50,29 @@
       ],
       "featured": false,
       "isPrivate": false
+    },
+    {
+      "identifier": "Dau3105",
+      "kind": "wallpaper",
+      "name": "Dau 3105",
+      "author": "Tri Thanh",
+      "version": "1.0.0",
+      "summary": "Bàn phím của ĐẬu",
+      "description": "..",
+      "category": "HOANGDUONG",
+      "tags": ["HOANGDUONG"],
+      "icon": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/IMG_1250.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/IMG_1250.png"
+      ],
+      "download": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/packages/Tele_dau.tendies",
+      "sha256": "85c5d9961b149d782afca022e554412573a9c8aa01b714c9299a8f1740a1db00",
+      "size": 1657674,
+      "supportedOS": [
+        { "minimum": "17.0", "maximum": "18.7.1" }
+      ],
+      "featured": false,
+      "isPrivate": false
     }
   ]
 }
