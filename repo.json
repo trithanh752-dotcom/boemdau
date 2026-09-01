@@ -70,7 +70,7 @@
       "author": "Tri Thanh",
       "version": "1.0.0",
       "summary": "Bàn phím của ĐẬu",
-      "description": "..",
+      "description": "Giao diện bàn phím cá nhân cho Đậu.",
       "category": "HOANGDUONG",
       "tags": [
         "HOANGDUONG"
@@ -98,7 +98,7 @@
       "author": "Tri Thanh",
       "version": "1.0.0",
       "summary": "Tự làm bản 2",
-      "description": "Không có gì đặc sắc",
+      "description": "Hình nền tùy biến của Đậu và Bố.",
       "category": "HOANGDUONG",
       "tags": [
         "HOANGDUONG"
@@ -126,7 +126,7 @@
       "author": "Tri Thanh",
       "version": "1.0.0",
       "summary": "Giao diện bàn phím tùy biến",
-      "description": "Chủ đề amongus..",
+      "description": "Chủ đề bàn phím phong cách Among Us.",
       "category": "Theme",
       "tags": [
         "Theme"
@@ -136,7 +136,7 @@
         "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/amongblack.png",
         "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/amongwhite.png"
       ],
-      "download": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/packages/Amongus.3105",
+      "download": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/packages/Amongus.tendies",
       "sha256": "07335fc68c1fbcf326936a6b2797a4834ee540815f627c207b4da4362971c189",
       "size": 395246,
       "supportedOS": [
