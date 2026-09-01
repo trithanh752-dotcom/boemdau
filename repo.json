@@ -14,7 +14,7 @@
       "summary": "Hình nền động trình phát nhạc Focus 3D",
       "description": "Hình nền động màn hình khóa phong cách Music Player 3D với hiệu ứng chuyển động và Gyro.",
       "category": "Wallpaper",
-      "tags": ["Wallpaper"],
+      "tags": ["Wallpaper", "Custom", "Theme"],
       "icon": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/focus_music.jpg",
       "screenshots": [
         "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/focus_music.jpg"
@@ -106,7 +106,7 @@
       "summary": "Bàn phím Among",
       "description": "Phong cách bàn phím among",
       "category": "Theme",
-      "tags": ["Theme", "Custom"],
+      "tags": ["Theme"],
       "icon": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/among.png",
       "screenshots": [
         "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/amongblack.png",
