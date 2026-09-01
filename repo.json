@@ -121,7 +121,7 @@
     },
     {
       "identifier": "Dialer-Amongus",
-      "kind": "theme",
+      "kind": "wallpaper",
       "name": "Among",
       "author": "Tri Thanh",
       "version": "1.0.0",
@@ -129,7 +129,8 @@
       "description": "Bàn phím quay số cuộc gọi phong cách Among Us cute.",
       "category": "Dialer",
       "tags": [
-        "Dialer"
+        "Dialer",
+        "Custom"
       ],
       "icon": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/among.png",
       "screenshots": [
