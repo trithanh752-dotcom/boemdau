@@ -57,7 +57,7 @@
       "name": "Dau 3105",
       "author": "Tri Thanh",
       "version": "1.0.0",
-      "summary": "Bàn phím của ĐẬu",
+      "summary": "Bàn phím của Đậu",
       "description": "Giao diện bàn phím tùy biến cho Đậu.",
       "category": "HOANGDUONG",
       "tags": ["HOANGDUONG"],
@@ -65,9 +65,9 @@
       "screenshots": [
         "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/IMG_1250.png"
       ],
-      "download": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/packages/Tele_dau.tendies",
-      "sha256": "85c5d9961b149d782afca022e554412573a9c8aa01b714c9299a8f1740a1db00",
-      "size": 1657674,
+      "download": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/packages/Dau.3105",
+      "sha256": "d1a085e01528a4aff458fe7b9d0554a25396fafe2e6503a775b25c2f3787410d",
+      "size": 1657556,
       "supportedOS": [
         { "minimum": "17.0", "maximum": "18.7.1" }
       ],
@@ -91,29 +91,6 @@
       "download": "https://github.com/trithanh752-dotcom/boemdau/releases/download/DAUVADAD/daddau.tendies",
       "sha256": "d160a1335bec907b154460b03a667d1e4378ccbcd05266e94483ddb4da761116",
       "size": 62443794,
-      "supportedOS": [
-        { "minimum": "17.0", "maximum": "18.7.1" }
-      ],
-      "featured": false,
-      "isPrivate": false
-    },
-    {
-      "identifier": "com.trithanh.dau-dialer",
-      "kind": "dialer",
-      "name": "Bàn phím cuộc gọi Among",
-      "author": "Tri Thanh",
-      "version": "1.0.0",
-      "summary": "Giao diện bàn phím quay số tùy biến cho Among",
-      "description": "Tùy biến giao diện Dialer (bàn phím số cuộc gọi) phong cách Among Us.",
-      "category": "Dialer",
-      "tags": ["Dialer", "HOANGDUONG", "Custom"],
-      "icon": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/among.png",
-      "screenshots": [
-        "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/amongwhite.png"
-      ],
-      "download": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/packages/Among-Us.tendies",
-      "sha256": "991615a8aa97d8e49f7d82472f58b6cc580b20faa7958f9a89322c5184b8d411",
-      "size": 425150,
       "supportedOS": [
         { "minimum": "17.0", "maximum": "18.7.1" }
       ],
