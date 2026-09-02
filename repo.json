@@ -96,6 +96,29 @@
       ],
       "featured": false,
       "isPrivate": false
+    },
+    {
+      "identifier": "com.trithanh.dau-dialer",
+      "kind": "dialer",
+      "name": "Bàn phím cuộc gọi Among",
+      "author": "Tri Thanh",
+      "version": "1.0.0",
+      "summary": "Giao diện bàn phím quay số tùy biến cho Among",
+      "description": "Tùy biến giao diện Dialer (bàn phím số cuộc gọi) phong cách Among Us.",
+      "category": "Dialer",
+      "tags": ["Dialer", "HOANGDUONG", "Custom"],
+      "icon": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/among.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/amongwhite.png"
+      ],
+      "download": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/packages/Among-Us.tendies",
+      "sha256": "991615a8aa97d8e49f7d82472f58b6cc580b20faa7958f9a89322c5184b8d411",
+      "size": 425150,
+      "supportedOS": [
+        { "minimum": "17.0", "maximum": "18.7.1" }
+      ],
+      "featured": false,
+      "isPrivate": false
     }
   ]
 }
