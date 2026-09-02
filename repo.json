@@ -130,8 +130,8 @@
       "isPrivate": false
     },
     {
-      "identifier": "Dazz-Cam",
-      "kind": "app",
+      "identifier": "Dazz-Cam_Custom",
+      "kind": "Custom",
       "name": "Dazz Cam",
       "author": "Tri Thanh",
       "version": "1.0.0",
