@@ -28,6 +28,31 @@
       "isPrivate": false
     },
     {
+      "identifier": "Dazz-Cam-Custom",
+      "kind": "wallpaper",
+      "name": "Dazz Cam",
+      "author": "Tri Thanh",
+      "version": "1.0.0",
+      "summary": "Giao diện phong cách máy ảnh cổ điển Dazz Cam",
+      "description": "Tùy biến giao diện retro vintage phong cách máy ảnh Dazz Cam dành riêng cho thiết bị của bạn.",
+      "category": "Custom",
+      "tags": [
+        "Custom",
+        "DazzCam"
+      ],
+      "icon": "assets/Dazz.png",
+      "screenshots": [
+        "assets/IMG_1286.png"
+      ],
+      "download": "Dazz_Cam_Pro.3105",
+      "sha256": "a192b2470cf3766d407a8c9957ec1f92e121ee112bbb983d9b60b21b6387b9ea",
+      "supportedOS": [
+        { "minimum": "17.0", "maximum": "18.7.1" }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
       "identifier": "Dauvienden",
       "kind": "wallpaper",
       "name": "DauDau",
