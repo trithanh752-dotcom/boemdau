@@ -14,7 +14,10 @@
       "summary": "Hình nền động trình phát nhạc Focus 3D",
       "description": "Hình nền động màn hình khóa phong cách Music Player 3D với hiệu ứng chuyển động và Gyro.",
       "category": "Wallpaper",
-      "tags": ["Wallpaper", "Custom"],
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
       "icon": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/focus_music.jpg",
       "screenshots": [
         "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/focus_music.jpg"
@@ -22,7 +25,10 @@
       "download": "packages/for_iphone.tendies",
       "sha256": "9475069afebb7a5a56e4dbe61f8b57bf19bf2c3edd464a0e5e2b5bc6f90f6728",
       "supportedOS": [
-        { "minimum": "17.0", "maximum": "18.7.1" }
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        }
       ],
       "featured": true,
       "isPrivate": false
@@ -36,7 +42,9 @@
       "summary": "Hình nền riêng cho Đậu",
       "description": "Tự làm riêng cho con trai.",
       "category": "HOANGDUONG",
-      "tags": ["HOANGDUONG"],
+      "tags": [
+        "HOANGDUONG"
+      ],
       "icon": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/123_dau.png",
       "screenshots": [
         "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/123_dau.png"
@@ -44,7 +52,10 @@
       "download": "packages/dauviernden2muttay.tendies",
       "sha256": "d24e372ec5f34790eab8384be0aed0b516435835f3432c343aff2e86d2768f6d",
       "supportedOS": [
-        { "minimum": "17.0", "maximum": "18.7.1" }
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        }
       ],
       "featured": false,
       "isPrivate": false
@@ -100,7 +111,9 @@
       "summary": "Tự làm bản 2",
       "description": "Hình nền tùy biến của Đậu và Bố.",
       "category": "HOANGDUONG",
-      "tags": ["HOANGDUONG"],
+      "tags": [
+        "HOANGDUONG"
+      ],
       "icon": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/dauvadad.png",
       "screenshots": [
         "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/dauvadad.png"
@@ -108,7 +121,37 @@
       "download": "packages/daddau.tendies",
       "sha256": "d160a1335bec907b154460b03a667d1e4378ccbcd05266e94483ddb4da761116",
       "supportedOS": [
-        { "minimum": "17.0", "maximum": "18.7.1" }
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Dazz-Cam",
+      "kind": "app",
+      "name": "Dazz Cam",
+      "author": "Tri Thanh",
+      "version": "1.0.0",
+      "summary": "Ứng dụng máy ảnh cổ điển retro",
+      "description": "Máy ảnh retro lấy cảm hứng từ phim cổ điển thập niên 80, mang lại hiệu ứng màu phim độc đáo.",
+      "category": "Custom",
+      "tags": [
+        "Custom"
+      ],
+      "icon": "assets/Dazz.png",
+      "screenshots": [
+        "assets/IMG_1286.png"
+      ],
+      "download": "packages/Dazz_Cam_Pro.3105",
+      "sha256": "a192b2470cf3766d407a8c9957ec1f92e121ee112bbb983d9b60b21b6387b9ea",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        }
       ],
       "featured": false,
       "isPrivate": false
