@@ -141,9 +141,9 @@
       "tags": [
         "Custom"
       ],
-      "icon": "assets/Dazz.png",
+      "icon": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/Dazz.png",
       "screenshots": [
-        "assets/IMG_1286.png"
+        "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/IMG_1286.png"
       ],
       "download": "packages/Dazz_Cam_Pro.3105",
       "sha256": "a192b2470cf3766d407a8c9957ec1f92e121ee112bbb983d9b60b21b6387b9ea",
