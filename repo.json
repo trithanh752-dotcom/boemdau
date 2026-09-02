@@ -1,5 +1,4 @@
-{
-  "schemaVersion": 1,
+"schemaVersion": 1,
   "identifier": "com.trithanh.boemdau",
   "name": "Bố Em Đậu",
   "description": "Kho tiện ích và giao diện tùy biến cá nhân của Bố Em Đậu",
@@ -65,9 +64,8 @@
       "screenshots": [
         "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/IMG_1250.png"
       ],
-      "download": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/packages/Tele_dau.tendies",
-      "sha256": "d1a085e01528a4aff458fe7b9d0554a25396fafe2e6503a775b25c2f3787410d",
-      "size": 1657556,
+      "download": "packages/Dau.3105",
+      "sha256": "300ffd9119a2c4fb80a69ecf99cdecca81395dccea1eb901d95471ea4f3da5f8",
       "supportedOS": [
         { "minimum": "17.0", "maximum": "18.7.1" }
       ],
@@ -99,3 +97,4 @@
     }
   ]
 }
+
