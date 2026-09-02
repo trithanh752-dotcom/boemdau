@@ -51,22 +51,42 @@
     },
     {
       "identifier": "Dau3105",
-      "kind": "wallpaper",
       "name": "Dau 3105",
       "author": "Tri Thanh",
       "version": "1.0.0",
       "summary": "Bàn phím của Đậu",
       "description": "Giao diện bàn phím tùy biến cho Đậu.",
-      "category": "HOANGDUONG",
-      "tags": ["HOANGDUONG"],
-      "icon": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/IMG_1250.png",
+      "category": "Dialer",
+      "tags": [
+        "Dialer",
+        "HOANGDUONG"
+      ],
+      "icon": "assets/IMG_1250.png",
+      "banner": "assets/IMG_1250.png",
       "screenshots": [
-        "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/IMG_1250.png"
+        "assets/IMG_1250.png"
       ],
       "download": "packages/Dau.3105",
       "sha256": "300ffd9119a2c4fb80a69ecf99cdecca81395dccea1eb901d95471ea4f3da5f8",
       "supportedOS": [
-        { "minimum": "17.0", "maximum": "18.7.1" }
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
       ],
       "featured": false,
       "isPrivate": false
