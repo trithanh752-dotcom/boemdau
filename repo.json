@@ -105,7 +105,7 @@
         "assets/IMG_1250.png"
       ],
       "download": "packages/Dau.3105",
-      "sha256": "300ffd9119a2c4fb80a69ecf99cdecca81395dccea1eb901d95471ea4f3da5f8",
+      "sha256": "cdfa61f32003e19052aee67db6f3ed176dd5dd8480b952e3225681e9839bff6b",
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -398,8 +398,8 @@
         "assets/Shinblack.png",
         "assets/Shinwhite.png"
       ],
-      "download": "packages/TelephonyUI-shin.3105pass",
-      "sha256": "0250d985aa0afe3254a828d0a5cff73d7c74afec51ae3c9b0309245d53192cc9",
+      "download": "packages/TelephonyUI-Shin.3105",
+      "sha256": "932f268125158a0cfca7927919501505df6c2d540552b0e3c20f4695d45f5d5d",
       "supportedOS": [
         {
           "minimum": "17.0",
