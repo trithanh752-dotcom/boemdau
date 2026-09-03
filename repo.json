@@ -104,7 +104,7 @@
       "screenshots": [
         "assets/IMG_1250.png"
       ],
-      "download": "packages/Dau.3105",
+      "download": "packages/Dau.3105pass",
       "sha256": "300ffd9119a2c4fb80a69ecf99cdecca81395dccea1eb901d95471ea4f3da5f8",
       "supportedOS": [
         {
@@ -443,47 +443,6 @@
       ],
       "download": "https://github.com/trithanh752-dotcom/boemdau/releases/download/Tendis-mod/SNOWKONGSVIP.tendies",
       "sha256": "dea10fe61066f4a191f4d24be035cc339b01bf913762a77e6adcba472eaa6e3a",
-      "supportedOS": [
-        {
-          "minimum": "17.0",
-          "maximum": "18.7.1"
-        },
-        {
-          "minimum": "26.0",
-          "maximum": "26.6.1"
-        },
-        {
-          "minimum": "27.0",
-          "maximum": "27.0",
-          "builds": [
-            "24A5355q",
-            "24A5370h",
-            "24A5380h",
-            "24A5390f"
-          ]
-        }
-      ],
-      "featured": false,
-      "isPrivate": false
-    },
-    {
-      "identifier": "Candyhack3105",
-      "name": "Candyhack 3105",
-      "author": "Tri Thanh",
-      "version": "1.0.0",
-      "summary": "CandyHack của Đậu",
-      "description": "Giao diện hack game candy",
-      "category": "Custom",
-      "tags": [
-        "Custom"
-      ],
-      "icon": "assets/Candy.png",
-      "banner": "assets/1st.png",
-      "screenshots": [
-        "assets/Candy9999.png"
-      ],
-      "download": "packages/CandyCrushSagaHack.3105",
-      "sha256": "876f67c0304fb58b6603ea551286ef163f99bedb3c524eda87767dd42bcaccbb",
       "supportedOS": [
         {
           "minimum": "17.0",
