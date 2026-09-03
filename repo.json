@@ -338,6 +338,48 @@
       ],
       "featured": false,
       "isPrivate": false
+    },
+    {
+      "identifier": "TeleShin3105",
+      "name": "TeleShin 3105",
+      "author": "Tri Thanh",
+      "version": "1.0.0",
+      "summary": "Bàn phím của Shin",
+      "description": "Giao diện bàn phím tùy biến cho Shin.",
+      "category": "Dialer",
+      "tags": [
+        "Dialer"
+      ],
+      "icon": "assets/Ori.png",
+      "banner": "assets/1st.png",
+      "screenshots": [
+        "assets/Shinblack.png",
+        "assets/Shinwhite.png"
+      ],
+      "download": "packages/TelephonyUI-Shin.3105",
+      "sha256": "932f268125158a0cfca7927919501505df6c2d540552b0e3c20f4695d45f5d5d",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
     }
   ]
 }
