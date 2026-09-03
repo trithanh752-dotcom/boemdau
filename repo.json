@@ -506,6 +506,47 @@
       ],
       "featured": false,
       "isPrivate": false
+    },
+    {
+      "identifier": "Capcut3105",
+      "name": "Capcut 3105",
+      "author": "Tri Thanh",
+      "version": "1.0.0",
+      "summary": "Capcut của Đậu",
+      "description": "Giao diện capcut 4k",
+      "category": "Custom",
+      "tags": [
+        "Custom"
+      ],
+      "icon": "assets/Capcut.png",
+      "banner": "assets/1st.png",
+      "screenshots": [
+        "assets/Capcut4k.png"
+      ],
+      "download": "packages/Capcut-Pro.3105",
+      "sha256": "79d17fb95fbe667621793442e916e12cdfb48c4e136335e850144e4273fc8430",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
     }
   ]
 }
