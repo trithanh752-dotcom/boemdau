@@ -14,7 +14,9 @@
       "summary": "Hình nền động trình phát nhạc Focus 3D",
       "description": "Hình nền động màn hình khóa phong cách Music Player 3D với hiệu ứng chuyển động và Gyro.",
       "category": "Wallpaper",
-      "tags": ["Wallpaper"],
+      "tags": [
+        "Wallpaper"
+      ],
       "icon": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/focus_music.jpg",
       "screenshots": [
         "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/focus_music.jpg"
@@ -22,7 +24,10 @@
       "download": "packages/for_iphone.tendies",
       "sha256": "9475069afebb7a5a56e4dbe61f8b57bf19bf2c3edd464a0e5e2b5bc6f90f6728",
       "supportedOS": [
-        { "minimum": "17.0", "maximum": "18.7.1" }
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        }
       ],
       "featured": true,
       "isPrivate": false
@@ -36,7 +41,9 @@
       "summary": "Hình nền riêng cho Đậu",
       "description": "Tự làm riêng cho con trai.",
       "category": "HOANGDUONG",
-      "tags": ["HOANGDUONG"],
+      "tags": [
+        "HOANGDUONG"
+      ],
       "icon": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/123_dau.png",
       "screenshots": [
         "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/123_dau.png"
@@ -44,7 +51,10 @@
       "download": "packages/dauviernden2muttay.tendies",
       "sha256": "d24e372ec5f34790eab8384be0aed0b516435835f3432c343aff2e86d2768f6d",
       "supportedOS": [
-        { "minimum": "17.0", "maximum": "18.7.1" }
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        }
       ],
       "featured": false,
       "isPrivate": false
@@ -100,7 +110,9 @@
       "summary": "Tự làm bản 2",
       "description": "Hình nền tùy biến của Đậu và Bố.",
       "category": "HOANGDUONG",
-      "tags": ["HOANGDUONG"],
+      "tags": [
+        "HOANGDUONG"
+      ],
       "icon": "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/dauvadad.png",
       "screenshots": [
         "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/dauvadad.png"
@@ -108,7 +120,10 @@
       "download": "packages/daddau.tendies",
       "sha256": "d160a1335bec907b154460b03a667d1e4378ccbcd05266e94483ddb4da761116",
       "supportedOS": [
-        { "minimum": "17.0", "maximum": "18.7.1" }
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        }
       ],
       "featured": false,
       "isPrivate": false
@@ -175,6 +190,49 @@
       ],
       "download": "packages/TelephonyUI-Pixel.3105",
       "sha256": "1beebbe76cb8325e6d7807ec71f6c778761600979c7bc413c3ca94efc4ffdcb0",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "TeleAmong3105",
+      "name": "TeleAmong 3105",
+      "author": "Tri Thanh",
+      "version": "1.0.0",
+      "summary": "Bàn phím của Among",
+      "description": "Giao diện bàn phím tùy biến cho Among.",
+      "category": "Dialer",
+      "tags": [
+        "Dialer",
+        "HOANGDUONG"
+      ],
+      "icon": "assets/among.png",
+      "banner": "assets/1st.png",
+      "screenshots": [
+        "assets/amongwhite.png",
+        "assets/amongblack.png"
+      ],
+      "download": "packages/TelephonyUI-Among.3105",
+      "sha256": "a1c8cdd6784027e6b1a350f245685b48b59e3f5c5482c4924dabac2a39419e41",
       "supportedOS": [
         {
           "minimum": "17.0",
