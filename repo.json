@@ -154,6 +154,49 @@
       ],
       "featured": false,
       "isPrivate": false
+    },
+    {
+      "identifier": "Telepixel3105",
+      "name": "Telepixel 3105",
+      "author": "Tri Thanh",
+      "version": "1.0.0",
+      "summary": "Bàn phím của Pixel",
+      "description": "Giao diện bàn phím tùy biến cho Pixel.",
+      "category": "Dialer",
+      "tags": [
+        "Dialer",
+        "HOANGDUONG"
+      ],
+      "icon": "assets/IMG_1288.png",
+      "banner": "assets/1st.png",
+      "screenshots": [
+        "assets/IMG_1288.png",
+        "assets/IMG_1289.png"
+      ],
+      "download": "packages/TelephonyUI-Pixel.3105",
+      "sha256": "1beebbe76cb8325e6d7807ec71f6c778761600979c7bc413c3ca94efc4ffdcb0",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
     }
   ]
 }
