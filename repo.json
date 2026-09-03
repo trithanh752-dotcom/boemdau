@@ -135,9 +135,10 @@
       "version": "1.0.0",
       "summary": "Dazz của Đậu",
       "description": "Giao diện bàn phím tùy biến cho máy ảnh Đậu. (Pass giải nén: wmcry)",
-      "category": "Custom",
+      "category": "Dialer",
       "tags": [
-        "Custom"
+        "Custom",
+        "HOANGDUONG"
       ],
       "icon": "assets/Dazz.png",
       "banner": "assets/1st.png",
@@ -232,6 +233,48 @@
       ],
       "download": "packages/TelephonyUI-Among.3105",
       "sha256": "a1c8cdd6784027e6b1a350f245685b48b59e3f5c5482c4924dabac2a39419e41",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "TeleOri3105",
+      "name": "TeleOri 3105",
+      "author": "Tri Thanh",
+      "version": "1.0.0",
+      "summary": "Bàn phím của Ori",
+      "description": "Giao diện bàn phím tùy biến cho Ori.",
+      "category": "Dialer",
+      "tags": [
+        "Dialer"
+      ],
+      "icon": "assets/Ori.png",
+      "banner": "assets/1st.png",
+      "screenshots": [
+        "assets/Oriblack.png",
+        "assets/Oriwhite.png"
+      ],
+      "download": "packages/TelephonyUI-Ori.3105",
+      "sha256": "e8218f61f47d2dcfd66300af08d60274e322741b07bb77df7af018459b5aba16",
       "supportedOS": [
         {
           "minimum": "17.0",
