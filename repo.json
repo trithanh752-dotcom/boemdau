@@ -135,10 +135,9 @@
       "version": "1.0.0",
       "summary": "Dazz của Đậu",
       "description": "Giao diện bàn phím tùy biến cho máy ảnh Đậu. (Pass giải nén: wmcry)",
-      "category": "Dialer",
+      "category": "Custom",
       "tags": [
-        "Custom",
-        "HOANGDUONG"
+        "Custom"
       ],
       "icon": "assets/Dazz.png",
       "banner": "assets/1st.png",
