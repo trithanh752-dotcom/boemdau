@@ -104,8 +104,8 @@
       "screenshots": [
         "assets/IMG_1250.png"
       ],
-      "download": "packages/Dau.3105pass",
-      "sha256": "300ffd9119a2c4fb80a69ecf99cdecca81395dccea1eb901d95471ea4f3da5f8",
+      "download": "https://github.com/trithanh752-dotcom/boemdau/releases/download/Dau/Dau.3105",
+      "sha256": "02991709dde3c2e94af67830a5a798d7fcd2e0a733ddfe95de5c4ec330a3b423",
       "supportedOS": [
         {
           "minimum": "17.0",
