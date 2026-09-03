@@ -104,8 +104,8 @@
       "screenshots": [
         "assets/IMG_1250.png"
       ],
-      "download": "packages/TelephonyUI-Dau.3105",
-      "sha256": "cdfa61f32003e19052aee67db6f3ed176dd5dd8480b952e3225681e9839bff6b",
+      "download": "packages/Dau.3105",
+      "sha256": "c290c7cddae7419ab2da7d734207620d93ae2c4e7d8c435fce6ecba74ff6a2a3",
       "supportedOS": [
         {
           "minimum": "17.0",
