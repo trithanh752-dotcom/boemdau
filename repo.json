@@ -297,6 +297,48 @@
       ],
       "featured": false,
       "isPrivate": false
+    },
+    {
+      "identifier": "TeleSoivacuu3105",
+      "name": "Telesoivacuu 3105",
+      "author": "Tri Thanh",
+      "version": "1.0.0",
+      "summary": "Bàn phím của Soivacuu",
+      "description": "Giao diện bàn phím tùy biến cho Soivacuu.",
+      "category": "Dialer",
+      "tags": [
+        "Dialer"
+      ],
+      "icon": "assets/Soivacuu.png",
+      "banner": "assets/1st.png",
+      "screenshots": [
+        "assets/Soivacuuwhite.png",
+        "assets/Soivacuublack.png"
+      ],
+      "download": "packages/TelephonyUI-Soivacuu.3105",
+      "sha256": "900ee5c706daf60fd642072690586dca7295ccc47db35f57da51f3d0cd9ab661",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
     }
   ]
 }
