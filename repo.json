@@ -62,7 +62,7 @@
       "screenshots": [
         "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/123_dau.png"
       ],
-      "download": "packages/dauviernden2muttay.tendies",
+      "download": "https://github.com/trithanh752-dotcom/boemdau/releases/download/HOANGDUONG/dauviernden2muttay.tendies",
       "sha256": "d24e372ec5f34790eab8384be0aed0b516435835f3432c343aff2e86d2768f6d",
       "supportedOS": [
         {
@@ -145,7 +145,7 @@
       "screenshots": [
         "https://raw.githubusercontent.com/trithanh752-dotcom/boemdau/main/assets/dauvadad.png"
       ],
-      "download": "packages/daddau.tendies",
+      "download": "https://github.com/trithanh752-dotcom/boemdau/releases/download/DAUVADAD/daddau.tendies",
       "sha256": "d160a1335bec907b154460b03a667d1e4378ccbcd05266e94483ddb4da761116",
       "supportedOS": [
         {
@@ -433,7 +433,8 @@
       "description": "Tự làm riêng cho Khongtuyetnhi.",
       "category": "HOANGDUONG",
       "tags": [
-        "HOANGDUONG"
+        "HOANGDUONG",
+        "Wallpaper"
       ],
       "icon": "assets/SnowKong.png",
       "screenshots": [
