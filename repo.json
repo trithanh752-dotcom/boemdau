@@ -465,6 +465,47 @@
       ],
       "featured": false,
       "isPrivate": false
+    },
+    {
+      "identifier": "Candy3105",
+      "name": "Candy 3105",
+      "author": "Tri Thanh",
+      "version": "1.0.0",
+      "summary": "Candy của Đậu",
+      "description": "Giao diện game candy",
+      "category": "Custom",
+      "tags": [
+        "Custom"
+      ],
+      "icon": "assets/Candy.png",
+      "banner": "assets/1st.png",
+      "screenshots": [
+        "assets/Candy9999.png"
+      ],
+      "download": "packages/CandyCrushSagaHack.3105",
+      "sha256": "876f67c0304fb58b6603ea551286ef163f99bedb3c524eda87767dd42bcaccbb",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false
     }
   ]
 }
