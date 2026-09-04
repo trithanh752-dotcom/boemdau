@@ -508,23 +508,24 @@
       "isPrivate": false
     },
     {
-      "identifier": "Capcut3105",
-      "name": "Capcut 3105",
+      "identifier": "TeleCat3105",
+      "name": "TeleCat 3105",
       "author": "Tri Thanh",
       "version": "1.0.0",
-      "summary": "Capcut của Đậu",
-      "description": "Giao diện capcut 4k",
-      "category": "Custom",
+      "summary": "Bàn phím của Cat",
+      "description": "Giao diện bàn phím tùy biến cho Cat.",
+      "category": "Dialer",
       "tags": [
-        "Custom"
+        "Dialer"
       ],
-      "icon": "assets/Capcut.png",
+      "icon": "assets/Cat.png",
       "banner": "assets/1st.png",
       "screenshots": [
-        "assets/Capcut4k.png"
+        "assets/CatBlack.png",
+        "assets/Catwhite.png"
       ],
-      "download": "packages/Capcutpro.3105",
-      "sha256": "807822a621e943f06eaf6fe53a411e96b4a32718a2356829547a87ff4f6a2401",
+      "download": "packages/Telephone-Meo-Cute-V2.3105",
+      "sha256": "e8218f61f47d2dcfd66300af08d60274e322741b07bb77df7af018459b5aba16",
       "supportedOS": [
         {
           "minimum": "17.0",
